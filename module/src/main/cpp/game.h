@@ -5,11 +5,11 @@
 #ifndef RIRU_IL2CPPDUMPER_GAME_H
 #define RIRU_IL2CPPDUMPER_GAME_H
 
-#define GamePackageName "com.game.packagename"
-#define UnityVersion 5.6.0f3
+#define GamePackageName "com.gravity.romg"
+#define UnityVersion 2019.3.0f6
 
 // 2018.3.0f2(v24.1) and up enable it
-//#define VersionAboveV24
+#define VersionAboveV24
 
 // UnityVersion Compatible list
 // 5.3.0f4     | 5.3.0f4 - 5.3.1f1         | v16
